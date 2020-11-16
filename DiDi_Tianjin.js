@@ -18,11 +18,11 @@ Quantumult X:
 [task_local]
 1 0 * * * DiDi_Tianjin.js, tag=滴滴出行-天天签到
 or remote
-1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_Tianjin.js, tag=滴滴出行-天天签到
+1 0 * * * https://raw.githubusercontent.com/Youmio/QuanX/master/DiDi_Tianjin.js, tag=滴滴出行-天天签到
 
 Surge 4.0+ & Loon:
 [Script]
-cron "1 0 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_Tianjin.js
+cron "1 0 * * *" script-path=https://raw.githubusercontent.com/Youmio/QuanX/master/DiDi_Tianjin.js
 */
 
 const activity = "8956";
