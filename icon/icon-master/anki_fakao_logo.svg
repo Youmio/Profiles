@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ANKI法考 Legal Study logo">
+  <title>ANKI法考 Legal Study</title>
+  <g fill="none" stroke="black" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top book -->
+    <path d="M412 160 L612 160 L662 190 L462 190 Z" />
+    <path d="M412 160 L412 210 L462 240 L662 240 L662 190" />
+    <!-- Middle book -->
+    <path d="M362 330 L662 330 L712 360 L362 360 Z" />
+    <path d="M362 330 L362 380 L412 410 L712 410 L712 360" />
+    <!-- Bottom book -->
+    <path d="M312 500 L712 500 L762 530 L312 530 Z" />
+    <path d="M312 500 L312 550 L362 580 L762 580 L762 530" />
+  </g>
+  <!-- Text -->
+  <text x="50%" y="780" font-family="Noto Sans, Arial, sans-serif" font-size="140" font-weight="700" text-anchor="middle">ANKI法考</text>
+  <text x="50%" y="880" font-family="Noto Sans, Arial, sans-serif" font-size="80" text-anchor="middle" letter-spacing="2">LEGAL STUDY</text>
+</svg>
